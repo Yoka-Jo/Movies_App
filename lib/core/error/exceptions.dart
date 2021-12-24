@@ -1,0 +1,1 @@
+class ServerExceptoin implements Exception{}
