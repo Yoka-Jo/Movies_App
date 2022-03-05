@@ -21,16 +21,7 @@ This App is written in CLEAN ARCHITECTURE way.
   <img src='screenshots/movies_tv_4.png'width="42%"/>  
   <img src='screenshots/movies_tv_5.png'width="42%"/>  
   <img src='screenshots/movies_tv_6.png'width="42%"/>  
-  <img src='screenshots/movies_tv_7.png'width="42%"/>  
-  <img src='screenshots/movies_tv_8.png'width="42%"/>  
-  <img src='screenshots/movies_tv_9.png'width="42%"/>  
-  <img src='screenshots/movies_tv_10.png'width="42%"/>  
-  <img src='screenshots/movies_tv_11.png'width="42%"/>  
-  <img src='screenshots/movies_tv_12.png'width="42%"/>  
-  <img src='screenshots/movies_tv_13.png'width="42%"/>  
-  <img src='screenshots/movies_tv_14.png'width="42%"/>  
-  <img src='screenshots/movies_tv_15.png'width="42%"/>  
-  <img src='screenshots/movies_tv_16.png'width="42%"/>  
+  <img src='screenshots/movies_tv_7.png'width="42%"/>   
 </p>
 
 ## Getting Started
