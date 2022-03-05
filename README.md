@@ -13,7 +13,6 @@ This App is written in CLEAN ARCHITECTURE way.
 
 # Screenshots
 
-<p align="center"><img src='shopPics/shopGif.gif'height="500"/></p>
 <p align="center">
   <img src='screenshots/movie_tv_1.png'width="42%"/>  
   <img src='screenshots/movie_tv_2.png'width="42%"/>  
